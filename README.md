@@ -1,4 +1,4 @@
-# Vos También Podés Hacer Videojuegos
+# Globant Gaming Garage 
 
 #### Recursos útiles
 - Assets gráficos cortesía de [Kenney](https://kenney.nl/)
